@@ -16,7 +16,17 @@ Designed relational schema (ERD) with entities (Content, Subscriber, Ratings, Ac
 
 #    SQL Query:
 Created queries for business questions, using joins, group by, having, subqureies and data filtering.
-#    Visulization:
+#    Query questions
+Which subscribers are most active?
+Content that receives above average rating
+Movie vs Show which one has higher rating
+Most common rating given by the user 
+Avg rating of show/movie in year 2023 
+Which subscribers watched most content
+Subgenre releaased in 2022
+Extract genre, sub-genre, date for Netflix Original > 2020
+Extract release date, Actor (first name, last name), content type (show/movie) with subgenre
+#    Visualization:
 Used Pandas in Python for SQL query and narrative exploration (graphs)
 # 3. Skills:
 #    SQL:
