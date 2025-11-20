@@ -1,0 +1,21 @@
+﻿ContentID,Type,Genre,Subgenre,DirectorFname,DirectorLname,NetflixOriginal,Duration(min),ReleaseDate
+1,Movie,Drama,Psychological,Christopher,Nolan,T,142,2023-03-15
+2,Series,Thriller,Mystery,Shonda,Rhimes,T,45,2022-01-20
+3,Movie,Sci-Fi,Space Opera,Denis,Villeneuve,T,156,2024-07-08
+4,Series,Comedy,Sitcom,Mindy,Kaling,T,30,2021-09-12
+5,Movie,Action,Military,Michael,Bay,F,128,2023-05-22
+6,Series,Historical,Period Drama,Peter,Morgan,T,58,2024-11-03
+7,Movie,Romance,Comedy,Nancy,Meyers,T,118,2022-02-14
+8,Series,Drama,Corporate,Aaron,Sorkin,T,52,2023-04-06
+9,Movie,Horror,Supernatural,James,Wan,T,103,2024-10-31
+10,Series,Documentary,Nature,David,Attenborough,T,48,2022-06-18
+11,Movie,Action,Racing,Justin,Lin,F,134,2023-08-25
+12,Movie,Drama,Biography,Damien,Chazelle,T,145,2024-12-10
+13,Series,Reality,Competition,Gordon,Ramsay,T,42,2023-03-05
+14,Movie,War,Historical,Ridley,Scott,F,162,2022-11-11
+15,Series,Crime,Detective,David,Fincher,T,55,2024-01-08
+16,Movie,Comedy,Stand-up,Judd,Apatow,T,95,2023-07-04
+17,Series,Sci-Fi,Cyberpunk,Wachowski,Sisters,T,50,2024-09-20
+18,Movie,Adventure,Survival,Ang,Lee,T,126,2022-05-30
+19,Series,Teen,Drama,Greg,Berlanti,T,38,2023-08-15
+20,Movie,Fantasy,Epic,Peter,Jackson,F,178,2024-12-25

@@ -1,0 +1,21 @@
+﻿SubscriberID,Fname,Lname,Email,Type,Country,Status
+1,James,Smith,james.smith@email.com,Premium,United States,Active
+2,Maria,Garcia,maria.garcia@email.com,Standard,Spain,Active
+3,Yuki,Tanaka,yuki.tanaka@email.com,Premium,Japan,Active
+4,Emma,Johnson,emma.johnson@email.com,Basic,United Kingdom,Active
+5,Lucas,Silva,lucas.silva@email.com,Standard,Brazil,Active
+6,Sophie,Martin,sophie.martin@email.com,Premium,France,Inactive
+7,Mohammed,Ali,mohammed.ali@email.com,Basic,Egypt,Active
+8,Priya,Sharma,priya.sharma@email.com,Premium,India,Active
+9,Oliver,Brown,oliver.brown@email.com,Standard,Canada,Active
+10,Isabella,Rossi,isabella.rossi@email.com,Premium,Italy,Active
+11,Chen,Wei,chen.wei@email.com,Standard,China,Active
+12,Fatima,Hassan,fatima.hassan@email.com,Basic,Morocco,Inactive
+13,Liam,Wilson,liam.wilson@email.com,Premium,Australia,Active
+14,Ana,Rodriguez,ana.rodriguez@email.com,Standard,Mexico,Active
+15,Hans,Mueller,hans.mueller@email.com,Premium,Germany,Active
+16,Aisha,Ibrahim,aisha.ibrahim@email.com,Basic,Nigeria,Active
+17,Nikolai,Petrov,nikolai.petrov@email.com,Standard,Russia,Inactive
+18,Kim,Park,kim.park@email.com,Premium,South Korea,Active
+19,Carlos,Fernandez,carlos.fernandez@email.com,Basic,Argentina,Active
+20,Lisa,Anderson,lisa.anderson@email.com,Premium,Sweden,Active
