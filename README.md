@@ -1,4 +1,4 @@
-# Project-1
+# Performance Analyis (Netflix)
 Netflix Content and Subscriber Performance Analysis (SQL, Python)
 
 # 1. Executive Summary:
